@@ -1,5 +1,10 @@
-#the inputs
+#madlibs assignent
+#lacey volterman
+#september 15th, 2025
+#this program will give you a story after you enter your inputs.
 
+
+#the inputs
 adj = input("Enter an adjective:")
 name = input("Enter a name:")
 badfood = input("Enter a disgusting food, but non-plural:")
