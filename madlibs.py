@@ -1,8 +1,11 @@
+#################################################################
 #madlibs assignent
 #lacey volterman
-#september 15th, 2025
+#september 15th 2025
 #this program will give you a story after you enter your inputs.
-
+#input adjectives, animals, number, etc
+#output is a unique story
+#################################################################
 
 #the inputs
 adj = input("Enter an adjective:")
